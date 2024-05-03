@@ -1,0 +1,18 @@
+*,html {
+    background: rgb(185, 85, 85);
+}
+#title {
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+main {
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    font-size:50px;
+}
+#timer {
+    display:flex;
+    flex-direction: column;
+}
